@@ -6,7 +6,8 @@
         "jest": "^29.3.1"
     },
     "scripts": {
-        "test": "jest"
+        "test": "jest",
+        "watch": "jest --watch reversestring.test.js"
     },
     "type": "module"
 }
